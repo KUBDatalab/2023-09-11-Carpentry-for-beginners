@@ -110,7 +110,9 @@ workshop is only open to people from a particular institution.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
-
+<p id="xxx">
+  <strong>Who:</strong> This workshop is open to students and other beginners interested in an introduction to best practices, tips and tricks to working with data in sheets. The workshop is suitable for all disciplines at the University of Copenhagen and is in alignment with the Digital Dannelse initiative
+</p>
 {% comment %}
 LOCATION
 
